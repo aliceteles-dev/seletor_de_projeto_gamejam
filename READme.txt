@@ -1,4 +1,4 @@
-# Seletor de projeto para GameJams! #
+#Seletor de projeto para GameJams!#
 
 Criei esse algoritmo para me ajudar a decidir em qual projeto engajar durante uma jam.
 
